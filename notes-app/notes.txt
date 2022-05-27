@@ -1,1 +1,9 @@
 esto es un archivo con Node Jseste es un nuevo texto
+
+
+
+
+el package.json tiene toda la informacion de mi proyecto
+
+el package-lock.json es un archivo que contiene informacion adicional que hace que NPM sea mas rapido y 
+seguro, esta enumera las versiones exactas y tambien de donde fueron obtenidas las dependencias
