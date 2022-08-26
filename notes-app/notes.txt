@@ -7,3 +7,9 @@ el package.json tiene toda la informacion de mi proyecto
 
 el package-lock.json es un archivo que contiene informacion adicional que hace que NPM sea mas rapido y 
 seguro, esta enumera las versiones exactas y tambien de donde fueron obtenidas las dependencias
+
+
+
+
+El res.send, podemos agregar cualquier cosa para que lo pueda mandar, informacion que pueda retornar 
+puede ser una linea de HTML o tambien puede ser un texto JSON, un objeto o lo que sea
